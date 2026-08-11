@@ -3,10 +3,10 @@ Employ Baye's rule for statistical likelihood analysis to find a missing sailor 
 
 Bayesian Search and Rescue Simulator
 
-Results of Monte Carlo Simulation:
-Sample Size: 10,000 simulations
-Concentrated-Search-Only: 2.758avg searches to find the sailor
-Split-Search Only: 2.291avg searches to find the sailor
+Results of Monte Carlo Simulation: | 
+| Sample Size: 10,000 simulations
+| Concentrated-Search-Only: 2.758avg searches to find the sailor
+| Split-Search Only: 2.291avg searches to find the sailor
 
 A Python search-and-rescue simulation that uses Bayes' theorem, probability of detection, stochastic search effectiveness, and Monte Carlo simulation to model the search for a missing sailor.
 Overview
