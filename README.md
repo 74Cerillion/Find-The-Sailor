@@ -3,7 +3,7 @@ Employ Baye's rule for statistical likelihood analysis to find a missing sailor 
 
 Bayesian Search and Rescue Simulator
 
-Results of Monte Carlo Simulation: | 
+Results of Monte Carlo Simulation: 
 | Sample Size: 10,000 simulations
 | Concentrated-Search-Only: 2.758avg searches to find the sailor
 | Split-Search Only: 2.291avg searches to find the sailor
